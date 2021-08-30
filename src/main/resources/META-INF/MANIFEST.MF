@@ -1,0 +1,1 @@
+Main-Class: scratches.boot.cloud.user.UpdateUserStatusApplication
