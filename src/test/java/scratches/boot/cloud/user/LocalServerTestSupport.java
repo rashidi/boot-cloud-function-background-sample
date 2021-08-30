@@ -99,7 +99,7 @@ final public class LocalServerTestSupport {
         assertThat(javaHome.exists()).isTrue();
 
         File javaBin = new File(javaHome, "bin");
-        File javaCommand = new File(javaBin, "java.exe");
+        File javaCommand = new File(javaBin, "java");
 
         assertThat(javaCommand.exists()).isTrue();
 
