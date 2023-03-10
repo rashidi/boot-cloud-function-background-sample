@@ -15,7 +15,7 @@
     <description>update-user-status</description>
     <properties>
         <java.version>11</java.version>
-        <spring-cloud-gcp.version>3.4.1</spring-cloud-gcp.version>
+        <spring-cloud-gcp.version>4.1.2</spring-cloud-gcp.version>
         <spring-cloud.version>2022.0.0</spring-cloud.version>
         <testcontainers.version>1.17.6</testcontainers.version>
     </properties>
